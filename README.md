@@ -1,2 +1,2 @@
 # Sentiment_Analysis_NLTK
-Sentiment Analysis is done on Amazon Food Review DataSet using Python Natural Language Toolkit.
+SENTIMENT ANALYSIS is done on AMAZON FOOD REVIEWS DataSet using Python Natural Language Toolkit (NLTK).
